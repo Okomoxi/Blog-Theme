@@ -6,7 +6,7 @@ header-img: "img/plane.jpg"
 ---
 
 <center>
-    <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
+    <p><img src="http://7xutsa.com1.z0.glb.clouddn.com/touxiang.png" align="center"></p>
 </center>
 
 Ehhhh...I know it's not a good question.
