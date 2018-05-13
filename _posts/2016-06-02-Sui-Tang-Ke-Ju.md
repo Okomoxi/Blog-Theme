@@ -36,7 +36,7 @@ description: 科举制是中国古代制度史上一大创举，绵延千年，�
    > 宴后，新进士还会聚在曲江北岸的慈恩寺大雁塔，题名于塔身。  
 
 <center>
- ![科举](https://raw.githubusercontent.com/Okomoxi/Okomoxi.github.io/master/photos/blogphoto/keju.jpg)
+ ![科举](https://github.com/Okomoxi/Okomoxi.github.io/photos/blogphoto/keju.jpg)
 </center>
 
 ## 二、科举考试内容 ##
