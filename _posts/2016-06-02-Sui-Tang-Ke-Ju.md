@@ -36,7 +36,7 @@ description: 科举制是中国古代制度史上一大创举，绵延千年，�
    > 宴后，新进士还会聚在曲江北岸的慈恩寺大雁塔，题名于塔身。  
 
 <center>
- ![雁塔题名](http://7xutsa.com1.z0.glb.clouddn.com/%E9%9B%81%E5%A1%94%E9%A2%98%E5%90%8D.jpg "雁塔题名")
+ ![科举](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Palastexamen-SongDynastie.jpg/1200px-Palastexamen-SongDynastie.jpg)
 </center>
 
 ## 二、科举考试内容 ##
