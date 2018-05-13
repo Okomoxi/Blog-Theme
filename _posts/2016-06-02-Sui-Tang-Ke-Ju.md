@@ -35,10 +35,6 @@ description: 科举制是中国古代制度史上一大创举，绵延千年，�
    
    > 宴后，新进士还会聚在曲江北岸的慈恩寺大雁塔，题名于塔身。  
 
-<center>
- ![](https://github.com/Okomoxi/Okomoxi.github.io/photos/blogphoto/keju.jpg)
-</center>
-
 ## 二、科举考试内容 ##
 
 隋唐科举考试分常举和制举。常举即定期举行的科举考试，制举即临时举行的特殊科举考试。
