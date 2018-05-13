@@ -1,7 +1,6 @@
-# Microdust 微尘
+# 北冥有鱼
 
-This is a blog created by Azeril. The blog is live at [azeril.me](http://azeril.me/).
-
+This is a blog created by Okomoxi. 
 ## Thanks
 
 The blog used many tool/service,many thanks to:
